@@ -8,5 +8,5 @@ int main ( int argc, char **argv ) {
         printf("%d: %s\n", i+1,argv[argc-i-1]);
     }
     printf("-------------   reverse END   -----------\n");
-    return 0; // Indicates that everything went well.
+    return 0; 
 }
